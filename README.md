@@ -15,7 +15,7 @@ Having my configuration ready as a `flake` allows me to run `nvim` wherever I wa
 You can add the following registry shortcut to type less characters:
 
 ```console
-$ nix registry add nvim-aldo github:aldoborrero/astronvim.nix
+$ nix registry add nvim-aldo github:brianmcgee/astronvim.nix
 ```
 
 ## Running my Astro NeoVim
@@ -28,7 +28,7 @@ $ nix run nvim-aldo#astronvim
 
 ## Acknowledgements
 
-Thanks to mighty @Mic92 to whom I took inspiration (and stole majority of his code) from his [dotfiles](https://github.com/mic92/dotfiles) repository!
+Shamelessly forked from [Aldo Borrero](https://github.com/aldoborrero/astronvim.nix), who took inspiration from the one, the only, [@Mic92](https://github.com/mic92/dotfiles)!
 
 ## License
 
