@@ -4,7 +4,7 @@
   buildEnv,
   vimPlugins,
   neovim,
-  nvim-appname ? "nvim-aldo",
+  nvim-appname ? "nvim-brian",
 }:
 writeShellScriptBin "nvim" ''
   set -efu
